@@ -1,2 +1,2 @@
-run_all:
+run-all:
     python practise.py
