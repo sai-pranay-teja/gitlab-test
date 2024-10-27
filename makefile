@@ -1,2 +1,2 @@
-run-all:
-    python practise.py
+runall:
+    python3 practise.py
