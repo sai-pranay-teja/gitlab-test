@@ -1,0 +1,6 @@
+job-1:
+    image: python:3.10.2
+    before_script:
+        - apt-get update && apt-get install make
+    script:
+        - make all
